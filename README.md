@@ -7,11 +7,11 @@ This bot currently supports:
 - **Typing**
 - **Verbal Memory**
 - **Aim Trainer**
-- **Reaction Time (stable version)**
-- **Memory (formerly Sequence Memory)** – limited automation
+- **Reaction Time**
+- **Sequence Memory** – limited automation
 - **Chimp Test** – requires image recognition for full automation
 
-**Note:** Some tests (like Chimp Test and Memory) require visual analysis. Full automation without image recognition may not be possible.
+**Note:** Some tests are not working yet. I will implement/fix them as soon as possible.
 
 ---
 
